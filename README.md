@@ -2,7 +2,7 @@
 <!-- 🔥 ANIMATED BANNER -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://github.com/amarthyanadhb/amarthyanadhb/blob/main/banner.gif" />
+  <img src="https://github.com/amarthyanadhb/amarthyanadhb/blob/main/banner.gif.gif" />
 </p>
 
 <!-- ===================== -->
