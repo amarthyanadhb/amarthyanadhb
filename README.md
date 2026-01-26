@@ -32,24 +32,41 @@ Seeking entry-level **Data Analyst / Data Scientist / ML Engineer** roles.
 ---
 
 <!-- ===================== -->
-<!-- 🧠 SKILLS -->
+<!-- 🧠 SKILLS & TECHNOLOGIES -->
 <!-- ===================== -->
 ## 🧠 Skills & Technologies
 
 ### 📊 Data Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=excel,sql,tableau,powerbi" />
+  <img src="https://skillicons.dev/icons?i=excel,sql,python,r,tableau,powerbi" />
 </p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+</p>
+
+---
 
 ### 🤖 Data Science & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,opencv" />
 </p>
 
-### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,linux,aws,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
+
+---
+
+### ☁️ Cloud, Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,jupyter,linux" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
 
 ---
 
