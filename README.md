@@ -126,8 +126,9 @@
 <!-- 🐍 Contribution Snake -->
 <h3>🐍 Contribution Snake</h3>
 <p align="center">
-  <img src="https://github.com/amarthyanadhb/amarthyanadhb/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/amarthyanadhb/amarthyanadhb/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 <br>
 
