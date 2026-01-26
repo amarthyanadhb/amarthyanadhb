@@ -38,23 +38,36 @@ Seeking entry-level **Data Analyst / Data Scientist / ML Engineer** roles.
 
 ### 📊 Data Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=excel,sql,python,r,tableau,powerbi" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 ---
 
 ### 🤖 Data Science & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv" />
+</p>
+
+---
+
+### ☁️ Cloud, Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,jupyter" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
+
 
 ---
 
