@@ -69,9 +69,6 @@ Seeking entry-level **Data Analyst / Data Scientist / ML Engineer** roles.
 </p>
 
 
----
-
-
 
 ---
 
