@@ -71,14 +71,6 @@ Seeking entry-level **Data Analyst / Data Scientist / ML Engineer** roles.
 
 ---
 
-### ☁️ Cloud, Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,jupyter,linux" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
 
 
 ---
