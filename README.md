@@ -4,7 +4,7 @@
 </p>
 
 <!-- 👋 Animated Name & Roles -->
-<h1 align="center">Hi 👋, I'm Amarthya Nadh B</h1>
+<h1 align="center"> Amarthya Nadh B</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Scientist;Data+Analyst;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Power+BI" />
