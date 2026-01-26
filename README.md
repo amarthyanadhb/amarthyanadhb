@@ -93,7 +93,7 @@ Seeking entry-level **Data Analyst / Data Scientist / ML Engineer** roles.
 ## 💼 Experience
 
 ### **Data Analyst Intern – AI Variant**  
-*Duration: 3 Months*
+*Duration: 6 Months*
 
 - Cleaned, validated, and analyzed large datasets using SQL, Python & Excel  
 - Performed **Exploratory Data Analysis (EDA)** to identify trends & anomalies  
