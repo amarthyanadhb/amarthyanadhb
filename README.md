@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://github.com/amarthyanadhb/amarthyanadhb/main/banner.gif" />
+  <img src="https://github.com/amarthyanadhb/amarthyanadhb/banner.gif" />
 </p>
 
 <!-- 👋 Animated Name & Roles -->
