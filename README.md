@@ -27,7 +27,7 @@ Data Analyst and aspiring **Data Scientist** with hands-on experience in **SQL, 
 Experienced in **EDA, data validation, KPI analysis, dashboard reporting**, and real-world analytics projects.  
 Seeking entry-level **Data Analyst / Data Scientist / ML Engineer** roles.
 
-📍 India &nbsp; | &nbsp; 📧 **amarthyanadh.b@gmail.com**
+📍 Bangalore &nbsp; | &nbsp; 📧 **amarthyanadh.b@gmail.com**
 
 ---
 
