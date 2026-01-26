@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://github.com/amarthyanadhb/amarthyanadhb/blob/main/banner.gif" />
+  <img src="https://github.com/amarthyanadhb/amarthyanadhb/AMARTHYA NADH B Data Analyst  Data Scientist  ML Enthusiast.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Amarthya Nadh B</h1>
