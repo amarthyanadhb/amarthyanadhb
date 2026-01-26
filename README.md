@@ -8,7 +8,6 @@
 <!-- ===================== -->
 <!-- 👤 NAME ONLY (NO HI) -->
 <!-- ===================== -->
-<h1 align="center">AMARTHYA NADH B</h1>
 
 <!-- ===================== -->
 <!-- 🔁 ANIMATED DESIGNATIONS -->
