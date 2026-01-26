@@ -1,128 +1,115 @@
-<h1 align="center">👋 Hi, I'm Amarthya Nadh B</h1>
+<h1 align="center">Hi 👋, I'm Amarthya Nadh B</h1>
+<h3 align="center">Data Analyst | Aspiring Data Scientist | ML Enthusiast 🌟</h3>
 
-<h3 align="center">Data Analyst | Data Scientist | Machine Learning Enthusiast</h3>
+<br>
 
-<p align="center">
-📍 Kerala, India <br>
-📧 <a href="mailto:amarthyanadh.b@gmail.com">amarthyanadh.b@gmail.com</a> |
-💼 <a href="https://www.linkedin.com/in/amarthyanadhb">LinkedIn</a> |
-🐙 <a href="https://github.com/amarthyanadhb">GitHub</a>
+<h3>👀 Profile Views</h3>
+<img src="https://komarev.com/ghpvc/?username=amarthyanadhb&label=Profile%20views&color=0e75b6&style=flat" alt="amarthyanadhb" />
+
+<br><br>
+
+<p align="right">
+  <img src="https://github.com/amarthyanadhb/amarthyanadhb/blob/main/animation.gif" width="350" alt="coding animation">
 </p>
 
----
+<ul>
+  <li>🔍 Strong foundation in <b>Data Analytics, Machine Learning & Statistics</b></li>
+  <li>📊 Hands-on experience with <b>EDA, KPI Analysis & Dashboards</b></li>
+  <li>🤖 Built real-world projects using <b>Python, SQL, ML & Computer Vision</b></li>
+  <li>🌱 Currently improving skills in <b>Data Science & ML Engineering</b></li>
+  <li>📫 Reach me at <b><a href="mailto:amarthyanadh.b@gmail.com">amarthyanadh.b@gmail.com</a></b></li>
+</ul>
 
-## 👨‍💻 About Me
+<br>
 
-I am a **Data Analyst and aspiring Data Scientist** with hands-on experience in **data analysis, machine learning, and predictive modeling**.  
-I enjoy transforming raw data into meaningful insights and building real-world ML applications.
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/amarthyanadhb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:amarthyanadh.b@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
+  </a>
+</p>
 
-- 🔍 Strong foundation in **Data Analytics, Statistics & Machine Learning**
-- 📊 Hands-on experience with **EDA, Data Cleaning, KPI Analysis & Dashboards**
-- 🤖 Built ML & Computer Vision projects with real-world impact
-- 🚀 Passionate about continuous learning and data-driven decision making
+<br>
 
----
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
-## 🛠️ Technical Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,excel,tableau,powerbi,sklearn,tensorflow,opencv,git,github,html,css,js" />
+</p>
 
-### 📊 Data Analytics & Visualization
-- SQL (Advanced)
-- Excel (Advanced)
-- Tableau
-- Power BI
+<br>
 
-### 🐍 Programming & ML
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Scikit-learn
-- Machine Learning
-- Feature Engineering & Preprocessing
+<h3>📂 Featured Projects</h3>
 
-### 🤖 AI & Computer Vision
-- OpenCV
-- CNN (Basics)
-- Face Recognition Systems
+<ul>
+  <li>
+    <b>✈️ High Cloud Airlines – Data Analysis</b><br>
+    Tools: SQL, Python, Excel, Tableau<br>
+    Analyzed passenger trends, load factor KPIs, and operational performance.
+  </li>
+  <br>
+  <li>
+    <b>🛒 Olist E-Commerce Data Analysis</b><br>
+    Tools: SQL, Python, Excel, Tableau, Power BI<br>
+    Performed EDA, built dashboards, and delivered business insights.
+  </li>
+  <br>
+  <li>
+    <b>🎯 Face Recognition Attendance System</b><br>
+    Tools: Python, OpenCV, ML<br>
+    Automated attendance for 50+ students with 75% accuracy and reduced manual effort by 60%.
+  </li>
+</ul>
 
-### 🌐 Tools & Platforms
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- HTML, CSS, JavaScript (Basics)
-- AWS (Basics)
+<br>
 
----
+<h3>💼 Experience</h3>
 
-## 📂 Featured Projects
+<ul>
+  <li>
+    <b>Data Analyst Trainee – AI Variant</b><br>
+    • Data cleaning, validation & EDA<br>
+    • KPI dashboards using Tableau & Power BI<br>
+    • Automated reports & stakeholder insights
+  </li>
+</ul>
 
-### ✈️ High Cloud Airlines – Data Analysis
-**Tools:** SQL, Python, Excel, Tableau  
-- Analyzed passenger trends and load factors across routes and time
-- Built KPIs and dashboards to support operational decisions
+<br>
 
----
+<h3>🎓 Education</h3>
 
-### 🛒 Olist E-Commerce Data Analysis
-**Tools:** SQL, Python, Excel, Tableau, Power BI  
-- Performed end-to-end EDA on large datasets
-- Built dashboards for sales, customer behavior & delivery efficiency
-- Delivered actionable business insights
+<ul>
+  <li>
+    <b>B.Tech in Computer Science & Engineering</b><br>
+    Sree Buddha College of Engineering, Kerala (2021 – 2025)
+  </li>
+</ul>
 
----
+<br>
 
-### 🎯 Automatic Face Recognition Attendance System
-**Tools:** Python, OpenCV, Machine Learning  
-- Automated attendance for 50+ students
-- Achieved **75% accuracy**
-- Reduced manual effort by **60%**
-- Minimized unauthorized entries by **30%**
+<h3>🏆 Achievements</h3>
 
----
+<ul>
+  <li>🏅 Design Patent Holder – 2025 (Application No: 447621-001)</li>
+  <li>📜 Certified in Data Analytics, Python & BI Tools</li>
+  <li>🧠 AI & ML Internship – Keltron</li>
+</ul>
 
-## 💼 Experience
+<br>
 
-### 📌 Data Analyst Trainee – AI Variant
-- Performed data cleaning, validation, and EDA
-- Built KPI dashboards using Tableau & Power BI
-- Automated reports and improved reporting efficiency
-- Collaborated with teams to translate business needs into insights
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology – Computer Science Engineering**  
-Sree Buddha College of Engineering, Kerala  
-📅 2021 – 2025  
-
----
-
-## 🏆 Achievements
-
-- 🏅 **Design Patent Holder (2025)**  
-  *Application No: 447621-001*
-- 📜 Certified in **Data Analytics, Python & BI Tools**
-- 🧠 Completed **AI & ML Internship (Keltron)**
-
----
-
-## 📈 GitHub Stats
+<h3>📊 GitHub Statistics</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amarthyanadhb&show_icons=true&theme=tokyonight" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarthyanadhb&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarthyanadhb&layout=compact&theme=tokyonight" />
 </p>
 
----
+<br>
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amarthyanadhb">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:amarthyanadh.b@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
-⭐ *If you like my work, consider starring my repositories and collaborating with me!*
+<h3 align="center">⭐ Like my work? Star my repositories and let’s collaborate!</h3>
