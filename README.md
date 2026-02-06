@@ -84,6 +84,7 @@ Seeking entry-level **Data Analyst / Data Scientist / ML Engineer** roles.
 | **Face Recognition Attendance System** | Automated attendance using computer vision | Python, OpenCV, ML | 60% time saved, 75% accuracy |
 | **Eye-Tracking Assistive System** | Hands-free computer control for disabled users | Python, OpenCV, ML | 95% reliability |
 | **Iris Classification** | Multiclass ML classification | Scikit-learn | 100% accuracy |
+| **Supermarket-website | Sales | Python, HTML, CSS| Operation & Performance|
 
 ---
 
