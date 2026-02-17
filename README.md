@@ -124,7 +124,7 @@ Sree Buddha College of Engineering, Kerala
 <!-- ===================== -->
 ## 📜 Certifications
 
-- • IBM Data Science Professional Certificate – Coursera (2026)
+- IBM Data Science Professional Certificate – Coursera (2026)
 - Data Analytics Internship – **AI Variant (2025)**
 - Python, AI & ML Internship – **Keltron**
 - Certificate Program in Data Analyst - NASSCOM (IT-ITeS SSC)
