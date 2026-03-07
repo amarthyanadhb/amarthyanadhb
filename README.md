@@ -79,6 +79,7 @@ Seeking entry-level **Data Analyst / Data Scientist / ML Engineer** roles.
 
 | Project | Description | Tech Stack | Impact |
 |------|------------|-----------|--------|
+| **Customer Segmentation (KMeans)** | Customer personality analysis and segmentation based on demographics and spending behavior | Python, Pandas, Scikit-learn, Streamlit, ML | Identified 4 customer segments enabling targeted marketing strategies |
 | **Olist E-Commerce Data Analysis** | Sales, customer behavior & delivery performance analysis | SQL, Python, Excel, Tableau, Power BI | Business KPIs & dashboards |
 | **High Cloud Airlines Analysis** | Passenger & load factor analysis across routes | SQL, Python, Tableau | Operational insights |
 | **Face Recognition Attendance System** | Automated attendance using computer vision | Python, OpenCV, ML | 60% time saved, 75% accuracy |
