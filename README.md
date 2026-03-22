@@ -128,6 +128,9 @@ Sree Buddha College of Engineering, Kerala
 - IBM Data Science Professional Certificate – Coursera (2026)
 - Data Analytics Internship – **AI Variant (2025)**
 - Python, AI & ML Internship – **Keltron**
+- 🥇 Masters Program in Data Science – NASSCOM FutureSkills Prime
+  - Score: 95% (Gold Category)
+  - Certified under IT-ITeS Sector Skills Council (Govt. of India)
 - Certificate Program in Data Analyst - NASSCOM (IT-ITeS SSC)
 - Python 101 for Data Science – **IBM**
 - Data Analytics Certification – **ExcelR**
