@@ -85,7 +85,6 @@ Seeking entry-level **Data Analyst / Data Scientist / ML Engineer** roles.
 | **Face Recognition Attendance System** | Automated attendance using computer vision | Python, OpenCV, ML | 60% time saved, 75% accuracy |
 | **Eye-Tracking Assistive System** | Hands-free computer control for disabled users | Python, OpenCV, ML | 95% reliability |
 | **Iris Classification** | Multiclass ML classification | Scikit-learn | 100% accuracy |
-|Customer Segmentation (KMeans) | Performed customer segmentation using K-Means clustering based on demographics and spending patterns to identify distinct customer groups | Python, Pandas, Scikit-learn, Matplotlib, Streamlit | Identified 4 customer segments enabling targeted marketing and improved business decision-making
 |Diabetes Prediction System	| Developed a machine learning model to predict diabetes using health parameters such as glucose level, BMI, age, and insulin	| Python, Pandas, Scikit-learn, Logistic Regression / Random Forest, Streamlit |Achieved high prediction accuracy and enabled early detection support for healthcare decision-making
 | Supermarket-website | Sales | Python, HTML, CSS| Operation & Performance|
 
